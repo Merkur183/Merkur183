@@ -43,6 +43,7 @@ My journey throughout my studies in business informatics has led me to develop a
     </a>
 
 </div>
+
 ## Current Projects
 <div>
     <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst" target="_blank">
