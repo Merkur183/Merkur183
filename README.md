@@ -1,18 +1,3 @@
-<!--
-**Merkur183/Merkur183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello, I'm Luca 👋
 <a href="www.linkedin.com/in/luca-r-78a178253">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,7 +28,7 @@ My journey throughout my studies in business informatics has led me to develop a
 
 ## Certifications
 <div>
-    <a "https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile">
+    <a href="https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile">
         <img src="https://img.shields.io/badge/-CyberOps%20Associate-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
 <img src="https://img.shields.io/badge/-CCNAv7-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
