@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hello, I'm Luca 👋
-<a href="www.linkedin.com/in/luca-r-78a178253"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/luca-r-78a178253">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am a business informatics student with a profound interest in Cybersecurity
 
@@ -41,8 +43,10 @@ My journey throughout my studies in business informatics has led me to develop a
 
 ## Certifications
 <div>
+    <a "https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile">
+        <img src="https://img.shields.io/badge/-CyberOps%20Associate-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
 <img src="https://img.shields.io/badge/-CCNAv7-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<href="https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile"><img src="https://img.shields.io/badge/-CyberOps%20Associate-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
