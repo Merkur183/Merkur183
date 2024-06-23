@@ -43,8 +43,10 @@ My journey throughout my studies in business informatics has led me to develop a
     </a>
 
 </div>
-https://discord.gg/teamelan
 ## Current Projects
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst" target="_blank">
+        <img src="https://img.shields.io/badge/-CDSA-111927?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
+</a>
 <a href="https://discord.gg/teamelan" target="_blank">
         <img src="https://img.shields.io/badge/teamELAN-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
