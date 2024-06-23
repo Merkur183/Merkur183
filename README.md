@@ -42,7 +42,7 @@ My journey throughout my studies in business informatics has led me to develop a
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCNAv7-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-CyberOps%20Associate-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<href="https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile"><img src="https://img.shields.io/badge/-CyberOps%20Associate-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
