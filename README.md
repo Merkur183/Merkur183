@@ -13,7 +13,10 @@ My journey throughout my studies in business informatics has led me to develop a
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    </a>
+    
 </div>
 
 ### Endpoint
@@ -22,21 +25,29 @@ My journey throughout my studies in business informatics has led me to develop a
 </div>
 
 ### SIEM
+
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://www.splunk.com/de_de" target="_blank">
+        <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    </a>
+    
 </div>
 
 ## Certifications
 <div>
-    <a href="https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile">
+    <a href="https://www.credly.com/badges/2dd504b1-06bf-4bda-8c3b-da3e9ebf6f98/linked_in_profile" target="_blank">
         <img src="https://img.shields.io/badge/-CyberOps%20Associate-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
-<img src="https://img.shields.io/badge/-CCNAv7-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <a href="https://www.credly.com/badges/44cd1f58-8c91-490b-8cd7-87775ca2c9e6" target="_blank">
+        <img src="https://img.shields.io/badge/-CCNAv7-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
 
 </div>
 
 ## Current Projects
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst" target="_blank">
+        <img src="https://img.shields.io/badge/-CDSA-111927?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/badge/-CDSA-111927?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 
 
