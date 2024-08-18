@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a business informatics student with a profound interest in Cybersecurity
+I am a recently graduated Business Informatics Bachelor with a profound interest in Cybersecurity. Soon I will be starting off my Masters in business informatics to complete my educational foundation, while testing and learning more stuff about the world of Cybersecurity.
 
 ## Objective
 
