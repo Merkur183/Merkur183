@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a recently graduated Business Informatics Bachelor with a profound interest in Cybersecurity. Soon I will be starting off my Masters in business informatics to complete my educational foundation, while testing and learning more stuff about the world of Cybersecurity.
+I am currently pursuing my Masters Degree in Business Informatics with a profound interest in Cybersecurity. Next to completing my educational foundation, I am testing and learning more stuff about the world of Cybersecurity.
 
 ## Objective
 
